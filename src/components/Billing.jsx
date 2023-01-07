@@ -18,9 +18,10 @@ const Billing = () => (
         layers
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-        dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        The main layer is composed of the main alphanumeric keys. This layer is
+        accessed without pressing anything and is the default. The other layers can
+        be effortlessly accessed via the thumb buttons which allow you to reach
+        any other key offered by windows, and then some for custom made macros.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

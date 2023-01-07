@@ -10,7 +10,8 @@ const CardDeal = () => (
         steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        QMK allows you to have a fully functioning keyboard--numpad and all, while staying small and preventing finger stretch--the main cause of RSI.
+        Say goodbye to emacs pinky with One-Shot modifiers!
       </p>
 
       <Button styles={`mt-10`} />
