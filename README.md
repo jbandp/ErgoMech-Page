@@ -1,6 +1,6 @@
 # Ergomech Landing Page
 
-Repo for the app of the [site](buildergomech.netlify.app).
+Repo for the app of the [site](https://buildergomech.netlify.app).
 
 ## Purpose
 
